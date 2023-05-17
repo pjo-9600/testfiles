@@ -1,4 +1,6 @@
-import pandas as py
+import pandas as pd
 import numpy as np
 
-np.randn
+for i in range (5):
+    print(i)
+    i = i + i
